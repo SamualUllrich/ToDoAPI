@@ -4,7 +4,7 @@ using ToDoAPI.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
-opt.UseSqlite(builder.Configuration.GetConnectionString("SqlightConnection")));
+    opt.UseSqlite(builder.Configuration.GetConnectionString("SqliteConnection")));
 
 
 
