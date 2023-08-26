@@ -35,7 +35,7 @@ The server will start, and you can access the API endpoints as described above.
 
 Please note that this documentation provides an overview of the ToDoAPI server. For detailed implementation details and specific usage, refer to the code files in this repository.
 
-## Contributing
+## Credits
 
 This is all code from Les Jackson's tutorial [.NET MAUI Step by Step Build](https://www.youtube.com/watch?v=LrZwd-f0M4I)
 
